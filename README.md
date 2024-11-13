@@ -1,4 +1,4 @@
-<h1 align="center">Serpent Society Beyond</h1>
+<h1 align="center">Beyond</h1>
 <h3 align="center">A member of Serpent Society</h3>
 
 - contact: [beyond@equibre.com](beyond@equibre.com)
